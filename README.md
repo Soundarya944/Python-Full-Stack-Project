@@ -1,4 +1,4 @@
-# 🍽️ Mealmate - Django-Based Web Application  
+# Mealmate - Online Food Ordering System  🍽️
 
 Mealmate is a **Django-based web application** that allows users to register as **restaurant owners** or **customers**.  
 - **Restaurant owners** can add, edit, and delete restaurants.  
