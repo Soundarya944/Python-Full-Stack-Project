@@ -32,16 +32,21 @@ Mealmate is a **Django-based web application** that allows users to register as 
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/your-username/mealmate.git  
-cd mealmate  
+cd mealmate
+
 2️⃣ Set Up a Virtual Environment
 python3 -m venv venv  
-source venv/bin/activate  # For Mac/Linux  
+source venv/bin/activate  # For Mac/Linux
+
 3️⃣ Install Dependencies
-pip install -r requirements.txt  
+pip install -r requirements.txt
+
 4️⃣ Apply Migrations
-python manage.py migrate  
+python manage.py migrate
+ 
 5️⃣ Create a Superuser
-python manage.py createsuperuser  
+python manage.py createsuperuser
+ 
 6️⃣ Run the Development Server
 python manage.py runserver  
 Now, open your browser and go to http://127.0.0.1:8000/
